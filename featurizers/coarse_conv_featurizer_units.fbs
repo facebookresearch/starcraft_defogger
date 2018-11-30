@@ -1,0 +1,18 @@
+namespace ffbs;
+
+struct UnitType {
+  id:int;
+  x:int;
+  y:int;
+  type:int;
+  visible:int;
+}
+
+table ReducedUnitTypes {
+  version:byte;
+  units_p0:[UnitType];
+  units_p1:[UnitType];
+  units_n:[UnitType];
+}
+
+root_type ReducedUnitTypes;
