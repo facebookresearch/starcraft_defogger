@@ -7,6 +7,7 @@ This repository is a code dump of the experiments in
 
 - PyTorch 0.3.1
 - ZSTD 1.3+
+- ZMQ 4+ (`sudo apt install libzmq3-dev`)
 - [optional] Visdom
 - [Download the dataset](https://s3-us-west-2.amazonaws.com/stardata/original_replays.tar.gz).
   This dataset is built by running `python reduce_data.py --list /path/to/stardata/all.list --save /output/path` on [StarData](https://github.com/TorchCraft/StarData).
