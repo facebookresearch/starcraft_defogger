@@ -124,3 +124,7 @@ publisher = {Curran Associates, Inc.},
 url = {http://papers.nips.cc/paper/8272-forward-modeling-for-partial-observation-strategy-games-a-starcraft-defogger.pdf}
 }
 ```
+
+## Licensing
+
+Please review our [LICENSE](https://github.com/facebookresearch/starcraft_defogger/blob/master/LICENSE) for full information.
