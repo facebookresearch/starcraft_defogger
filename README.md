@@ -9,8 +9,7 @@ This repository is a code dump of the experiments in
 - ZSTD 1.3+
 - ZMQ 4+ (`sudo apt install libzmq3-dev`)
 - [optional] Visdom
-- [Download the dataset](https://s3-us-west-2.amazonaws.com/stardata/defogger_reduced.tar.gz).
-  This dataset is built by running `python reduce_data.py --list /path/to/stardata/all.list --save /output/path` on [StarData](https://github.com/TorchCraft/StarData).
+- Build the dataset by running `python reduce_data.py --list /path/to/stardata/all.list --save /output/path` on [StarData](https://github.com/TorchCraft/StarData).
   We provide it here since the data is much smaller than StarData after preprocessing.
 
 ## Install
