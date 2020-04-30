@@ -87,7 +87,7 @@ that you can use previous BWAPI versions.
 
 We also provide the dumped replays from the [AIIDE 2017 Starcraft Bot contest](https://www.cs.mun.ca/~dchurchill/starcraftaicomp/2017/),
 since we hypothesize that training on this data will get better results for bot-vs-bot games.
-We provide the reduced replays [here](https://s3-us-west-2.amazonaws.com/stardata/defogger_reduced_aiide17.tar.gz).
+We provide the reduced replays here.
 
 We thank [Florentin Guth](https://github.com/Kegnarok) for the C++ port of the defogger.
 
